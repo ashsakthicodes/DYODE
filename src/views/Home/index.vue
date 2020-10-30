@@ -18,7 +18,7 @@
                     </div>
                     <div class="nav-header p-sm-15">
                         <div class="nav-title">
-                            <img src="/images/Logo.png" class="d-sm-block" alt="Logo" width="80">   
+                            <img src="images/Logo.png" class="d-sm-block" alt="Logo" width="80">   
                         </div>
                     </div>
                     <div class="d-sm-block p-15">
@@ -27,7 +27,7 @@
                     
                     
                     <div class="nav-links">
-                        <img src="/images/Logo.png" class="d-sm-none mr-15" alt="Logo" width="80">  
+                        <img src="images/Logo.png" class="d-sm-none mr-15" alt="Logo" width="80">  
                         <a href="">Womens</a>
                         <a href="">Mens</a>
                         <a href="">Accessories</a>
@@ -46,16 +46,16 @@
             <div class="banner">
                 <splide :options="options">
                     <splide-slide>
-                        <img src="/images/Hero Image 1.jpg">
+                        <img src="images/Hero Image 1.jpg">
                     </splide-slide>
                     <splide-slide>
-                        <img src="/images/Hero Image 1.jpg">
+                        <img src="images/Hero Image 1.jpg">
                     </splide-slide>
                     <splide-slide>
-                        <img src="/images/Hero Image 1.jpg">
+                        <img src="images/Hero Image 1.jpg">
                     </splide-slide>
                     <splide-slide>
-                        <img src="/images/Hero Image 1.jpg">
+                        <img src="images/Hero Image 1.jpg">
                     </splide-slide>
                 </splide>
                 <div class="herocontent">
@@ -69,15 +69,15 @@
             <div class="p-15 bg-white">
                 <div class="category-wrapper">
                     <div class="category-1">
-                        <img src="/images/Womens Image.jpg">
+                        <img src="images/Womens Image.jpg">
                         <div class="imagetitle">Womens</div>
                     </div>
                     <div  class="category-2">
-                        <img src="/images/Mens Image.jpg">
+                        <img src="images/Mens Image.jpg">
                         <div class="imagetitle">Mens</div>
                     </div>
                     <div  class="category-3">
-                        <img src="/images/Accessories Image.jpg">
+                        <img src="images/Accessories Image.jpg">
                         <div class="imagetitle">Acessories</div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                         <splide-slide>
                             <div class="products">
                                 <div>
-                                    <img src="/images/Product Image 1.jpg" width="230">
+                                    <img src="images/Product Image 1.jpg" width="230">
                                     <div>
                                         <p class="slidercontenttitle">Product Title</p>
                                         <p class="slidercontentproduct">Women's T-Shirt</p>
@@ -98,7 +98,7 @@
                                     </div>
                                 </div>
                                 <div>
-                                    <img src="/images/Product Image 1.jpg" width="230">
+                                    <img src="images/Product Image 1.jpg" width="230">
                                     <div>
                                         <p class="slidercontenttitle">Product Title</p>
                                         <p class="slidercontentproduct">Women's T-Shirt</p>
@@ -106,7 +106,7 @@
                                     </div>
                                 </div>
                                 <div class="d-sm-none">
-                                    <img src="/images/Product Image 1.jpg" width="230">
+                                    <img src="images/Product Image 1.jpg" width="230">
                                     <div>
                                         <p class="slidercontenttitle">Product Title</p>
                                         <p class="slidercontentproduct">Women's T-Shirt</p>
@@ -114,7 +114,7 @@
                                     </div>
                                 </div>
                                 <div class="d-sm-none">
-                                    <img src="/images/Product Image 1.jpg" width="230">
+                                    <img src="images/Product Image 1.jpg" width="230">
                                     <div>
                                         <p class="slidercontenttitle">Product Title</p>
                                         <p class="slidercontentproduct">Women's T-Shirt</p>
@@ -127,7 +127,7 @@
                         <splide-slide>
                         <div class="products">
                                 <div>
-                                    <img src="/images/Product Image 1.jpg" width="230">
+                                    <img src="images/Product Image 1.jpg" width="230">
                                     <div>
                                         <p class="slidercontenttitle">Product Title</p>
                                         <p class="slidercontentproduct">Women's T-Shirt</p>
@@ -135,7 +135,7 @@
                                     </div>
                                 </div>
                                 <div>
-                                    <img src="/images/Product Image 1.jpg" width="230">
+                                    <img src="images/Product Image 1.jpg" width="230">
                                     <div>
                                         <p class="slidercontenttitle">Product Title</p>
                                         <p class="slidercontentproduct">Women's T-Shirt</p>
@@ -143,7 +143,7 @@
                                     </div>
                                 </div>
                                 <div class="d-sm-none">
-                                    <img src="/images/Product Image 1.jpg" width="230">
+                                    <img src="images/Product Image 1.jpg" width="230">
                                     <div>
                                         <p class="slidercontenttitle">Product Title</p>
                                         <p class="slidercontentproduct">Women's T-Shirt</p>
@@ -151,7 +151,7 @@
                                     </div>
                                 </div>
                                 <div class="d-sm-none">
-                                    <img src="/images/Product Image 1.jpg" width="230">
+                                    <img src="images/Product Image 1.jpg" width="230">
                                     <div>
                                         <p class="slidercontenttitle">Product Title</p>
                                         <p class="slidercontentproduct">Women's T-Shirt</p>
@@ -167,7 +167,7 @@
             </div>
 
             <div class="banner bannerbottom">
-                <img src="/images/Hero Image 2.jpg" alt="Hero Image">
+                <img src="images/Hero Image 2.jpg" alt="Hero Image">
                 <div class="content">
                     <p class="title">Title Goes Here</p>
                     <p class="tagline">Tagline will go right here.</p>
@@ -178,18 +178,18 @@
             <div class="follow-us-wrapper">
                 <h5>Follow us on Instagram!</h5>
                  <div class="img-wrapper">
-                    <img src="/images/social 1.jpg" alt="Follow US">
-                    <img src="/images/social 2.jpg" alt="Follow US">
-                    <img src="/images/social 3.jpg" alt="Follow US">
-                    <img src="/images/social 4.jpg" alt="Follow US" class="d-sm-none">
-                    <img src="/images/social 5.jpg" alt="Follow US" class="d-sm-none">
+                    <img src="images/social 1.jpg" alt="Follow US">
+                    <img src="images/social 2.jpg" alt="Follow US">
+                    <img src="images/social 3.jpg" alt="Follow US">
+                    <img src="images/social 4.jpg" alt="Follow US" class="d-sm-none">
+                    <img src="images/social 5.jpg" alt="Follow US" class="d-sm-none">
                 </div>
             </div>
            
 
             <div class="signup-wrapper">
                 <div class="header">
-                    <div><img src="/images/Email Icon.png" width="30"  class="mr-15 "></div> <div>Sign up & Stay Connected</div>
+                    <div><img src="images/Email Icon.png" width="30"  class="mr-15 "></div> <div>Sign up & Stay Connected</div>
                 </div>
                 <div class="content">
                     <div class="para mr-15 pb-md-15">
@@ -235,9 +235,9 @@
                 </div>
                 <div class="column column-3">
                     <h5>Follow Us</h5>
-                    <img src="/images/Group 3.png" width="10" alt="Facebook" title="Facebook" class="facebook">
-                    <img src="/images/Group 8.png" width="20" alt="Instagram" title="Instagram" class="insta ml-15">
-                    <img src="/images/Group 15.png" width="20" alt="Twitter" title="Twitter" class="insta ml-15">
+                    <img src="images/Group 3.png" width="10" alt="Facebook" title="Facebook" class="facebook">
+                    <img src="images/Group 8.png" width="20" alt="Instagram" title="Instagram" class="insta ml-15">
+                    <img src="images/Group 15.png" width="20" alt="Twitter" title="Twitter" class="insta ml-15">
                 </div>
             </div>
         </footer>
