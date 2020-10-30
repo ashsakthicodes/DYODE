@@ -178,11 +178,11 @@
             <div class="follow-us-wrapper">
                 <h5>Follow us on Instagram!</h5>
                  <div class="img-wrapper">
-                    <img src="images/social 1.jpg" alt="Follow US">
-                    <img src="images/social 2.jpg" alt="Follow US">
-                    <img src="images/social 3.jpg" alt="Follow US">
-                    <img src="images/social 4.jpg" alt="Follow US" class="d-sm-none">
-                    <img src="images/social 5.jpg" alt="Follow US" class="d-sm-none">
+                    <img src="images/Social 1.jpg" alt="Follow US">
+                    <img src="images/Social 2.jpg" alt="Follow US">
+                    <img src="images/Social 3.jpg" alt="Follow US">
+                    <img src="images/Social 4.jpg" alt="Follow US" class="d-sm-none">
+                    <img src="images/Social 5.jpg" alt="Follow US" class="d-sm-none">
                 </div>
             </div>
            
